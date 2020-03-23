@@ -1,0 +1,12 @@
+.list-view .scroll-bar 
+{
+	-fx-opacity: 0;
+	-fx-padding: -7;
+	-fx-max-width: 0;
+	-fx-pref-width: 0;
+}
+
+.list-view .cell
+{
+	-fx-opacity:0.5;
+}
